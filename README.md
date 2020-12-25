@@ -7,3 +7,7 @@
 [React Native Web](https://github.com/necolas/react-native-web) is a framework for [React Native](https://reactnative.dev/) that allows you to develop apps capable of running on iOS, Android, and the Web with a single codebase. 
 
  :electron: Contributions welcome. Add links through [pull requests](https://github.com/dhamaniasad/awesome-react-native-web/pulls) or create an [issue](https://github.com/dhamaniasad/awesome-react-native-web/issues) to start a discussion. Please take a look at the [contribution guidelines](CONTRIBUTING.md).
+
+## Contents
+
+- [Awesome React Native Web](#awesome-react-native-web-)
